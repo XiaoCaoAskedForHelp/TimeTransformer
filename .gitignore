@@ -1,0 +1,29 @@
+# folders
+bin/
+obj/
+Debug/
+packages/
+.vs/
+
+# files
+*.suo
+*.user
+*.bak
+*.resharper
+*.resharper.user
+*.snk
+*.log
+*.cache
+*.sln.docstates
+*.nuget/
+
+# WinForm files
+*.exe
+*.dll
+*.pdb
+*.manifest
+*.resx
+*.resources
+*.userprefs
+*.vspscc
+*.vssscc
